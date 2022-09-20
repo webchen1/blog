@@ -1,6 +1,7 @@
 module.exports = {
     title: '全民娱乐',
     description: 'Just play around',
+    dest: '../dist',
     themeConfig: {
         // 导航栏LOGO
         logo: '/assets/img/logo.png',

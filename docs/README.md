@@ -12,5 +12,10 @@ features:
   details: 目前拥有群管.娱乐.授权(正在开发中)
 - title: 兼容超强
   details: 兼容目前很多主流的框架
-footer: MIT Licensed | Copyright © 2022-By quan min
+footer: MIT Licensed | Copyright © 2022 | 皖ICP备2022002433号
 ---
+
+
+
+<a hidden href="http://beian.miit.gov.cn/" target="_blank">皖ICP备2022002433号-1</a>
+
